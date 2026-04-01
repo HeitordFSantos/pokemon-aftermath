@@ -1,0 +1,25 @@
+# ── gRPC ───────────────────────────────────
+grpcio==1.64.0
+grpcio-tools==1.64.0
+protobuf==5.27.0
+
+# ── Dados / CSV / Planilhas ─────────────────
+pandas==2.2.2
+openpyxl==3.1.4
+
+# ── Game Master / Lógica ───────────────────
+numpy==1.26.4
+
+# ── IA de NPCs (via Ollama local) ──────────
+ollama==0.2.1
+
+# ── Mapas (formato Tiled .tmx) ─────────────
+pytmx==3.32
+
+# ── Persistência / Save ────────────────────
+tinydb==4.8.0
+
+# ── Utilitários ────────────────────────────
+python-dotenv==1.0.1
+loguru==0.7.2
+pydantic==2.7.1

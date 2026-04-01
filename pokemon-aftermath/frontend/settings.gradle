@@ -1,0 +1,3 @@
+rootProject.name = 'pokemon-aftermath'
+include 'core'
+include 'desktop'
